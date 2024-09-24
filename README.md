@@ -1,6 +1,6 @@
 ## Hi, I'm Jack Kenzakowski 👋
 - 🌱 I’m a Data Science graduate student at UVA
-- 💻 I work with Python, R, SQL, and Machine Learning
+- 💻 I work with Python, R, and SQL
 - 🏀 Currently focused on sports analytics and predictive modeling
 
 ### Projects:
